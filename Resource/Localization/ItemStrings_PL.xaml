@@ -70,7 +70,7 @@
     <s:String x:Key="LudensEcho1" xml:space="preserve">&#10;Umiejętności zadają podstawowo 200 oraz 200 rozpryskowych obrażeń na trafienie.</s:String>
     <!--Morellonomicon-->
     <s:String x:Key="Morello" xml:space="preserve">Morellonomicon</s:String>
-    <s:String x:Key="Morello1" xml:space="preserve">&#10;Umiejętnosći palą wrogów za 5% ich maksymalnego zdrowia na sekundę i uniemożliwiają leczenie.</s:String>
+    <s:String x:Key="Morello1" xml:space="preserve">&#10;Umiejętności palą wrogów za 5% ich maksymalnego zdrowia na sekundę i uniemożliwiają leczenie.</s:String>
     <!--Phantom Dancer-->
     <s:String x:Key="PhantomDancer" xml:space="preserve">Widmowy Tancerz</s:String>
     <s:String x:Key="PhantomDancer1" xml:space="preserve">&#10;Posiadacz unika wszystkie Trafienia Krytyczne.</s:String>
@@ -160,7 +160,7 @@
     <!-- Noble -->
     <s:String x:Key="ClassOrigins_Noble" xml:space="preserve">Szlachcic</s:String>
     <s:String x:Key="ClassOrigins_Noble_Describe1" xml:space="preserve">Szlachcice otrzymują</s:String>
-    <s:String x:Key="ClassOrigins_Noble_Describe2" xml:space="preserve">+100 Pancerza </s:String>
+    <s:String x:Key="ClassOrigins_Noble_Describe2" xml:space="preserve">+100 Pancerza</s:String>
     <s:String x:Key="ClassOrigins_Noble_Describe3" xml:space="preserve">i</s:String>
     <s:String x:Key="ClassOrigins_Noble_Describe4" xml:space="preserve">leczenie za 35</s:String>
     <s:String x:Key="ClassOrigins_Noble_Describe5" xml:space="preserve">na trafienie.</s:String>
@@ -273,6 +273,8 @@
     <!-- Knight -->
     <s:String x:Key="ClassOrigins_Knight" xml:space="preserve">Rycerz</s:String>
     <s:String x:Key="ClassOrigins_Knight_Describe1" xml:space="preserve">Rycerze</s:String>
+@Jadowity336
+Propose file change
     <s:String x:Key="ClassOrigins_Knight_Describe2" xml:space="preserve">blokują obrażenia</s:String>
     <s:String x:Key="ClassOrigins_Knight_Describe3" xml:space="preserve">od</s:String>
     <s:String x:Key="ClassOrigins_Knight_Describe4" xml:space="preserve">podstawowych ataków.</s:String>
